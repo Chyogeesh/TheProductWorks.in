@@ -12,3 +12,10 @@ Smart Options → Choose style, tone, or chart type
 Run AI Task
 
 Result Screen → View and download the output
+Explain This” Button
+Next to every option (like “Tone” or “Chart Type”), there's a small “?” Explain This button.
+
+When clicked, it shows a simple example or tooltip with plain language.
+
+E.g.: “Professional tone = formal and clear, like business emails.”
+
